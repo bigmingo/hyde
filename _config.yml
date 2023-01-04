@@ -9,7 +9,7 @@ permalink:        pretty
 title:            Big Mingo
 tagline:          'A blog'
 description:      'A blogging website for an aspiring Cybersecurity student. Made by <a>Austin</a>.'
-url:              http://hyde.getpoole.com
+url:              http://bigmingo.github.io/hyde
 baseurl:          '/hyde/'
 
 author:
