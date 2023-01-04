@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            Big Mingo
 tagline:          'A blog'
-description:      'A blogging website for an aspiring Cybersecurity student. Made by <a>Austin</a>.'
+description:      'A blogging website for an aspiring student in Cybsersecurity. Made by <a>Austin</a>.'
 url:              http://bigmingo.github.io/hyde
 baseurl:          '/hyde/'
 
